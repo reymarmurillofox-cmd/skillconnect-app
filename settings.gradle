@@ -1,0 +1,2 @@
+rootProject.name = "SkillConnect"
+include ':app'
