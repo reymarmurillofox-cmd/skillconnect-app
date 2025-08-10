@@ -6,8 +6,6 @@ workflows:
       vars:
         ANDROID_BUILD_TYPE: debug
       java: 17
-      android:
-        version: 33
     scripts:
       - name: Build Android APK
         script: |
